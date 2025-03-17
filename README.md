@@ -32,7 +32,7 @@ Running Queries
 
 Clone the repository:
 
-git clone https://github.com/yourusername/basic-sql.git
+git clone (https://github.com/subbuworkspace/subbuworkspace-Basic-SQL-Query.git)
 
 Navigate to the project folder:
 
