@@ -13,7 +13,10 @@ select max (PaymentMethod) [Maximum paymethod] from [dbo].[Sales]
 select productid, max (Quantity) [Maximum quantity] from [dbo].[Sales]
 group by ProductID
 
+--maximum total amount for all distinct dates in sale date column
 
+select saledate, max (TotalAmount) [maximum total amount] from [dbo].[Sales]
+group by SaleDate
 
 
 
