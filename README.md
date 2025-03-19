@@ -1,4 +1,4 @@
-# subbuworkspace-Basic-SQL-Query
+# Basic-SQL-Query
 
 Basic SQL
 
