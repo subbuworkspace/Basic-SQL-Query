@@ -24,7 +24,7 @@ Getting Started
 
 Prerequisites
 
-Install a database system such as MySQL,   Microsoft SQL Server.
+Install a database system such as   Microsoft SQL Server.
 
 Use an SQL client like MySQL Workbench, DBeaver, or pgAdmin.
 
